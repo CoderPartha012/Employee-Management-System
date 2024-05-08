@@ -4,7 +4,7 @@ This repository consists of Java Program for Employee Management System. In this
 
 The Program is completely based on OOPs concept.
 
-<img src="Images/Java.png">
+![o1](https://github.com/CoderPartha012/Employee-Management-System/assets/104616945/f17d9988-ebdb-43db-8663-e1935ebe95e7)
 
 # How to run ?
 For Compliation : <code>javac EmployManagementSystem.java</code>
