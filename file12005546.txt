@@ -1,0 +1,7 @@
+Employee ID:12005546
+Employee Name     :Partha Rakshit
+Father's Name     :Swarup Rakshit
+Employee Contact  :7814434323
+Email Information :partha@wesoftek.com
+Employee position :Software Tester
+Employee Salary   :15000
